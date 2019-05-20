@@ -1,1 +1,3 @@
-
+variable "SQLVersion" {
+    default = false
+}
