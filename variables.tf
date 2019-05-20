@@ -1,3 +1,1 @@
-variable "SQLVersion" {
-    default = false
-}
+regions = ["East US", "Central US"]
